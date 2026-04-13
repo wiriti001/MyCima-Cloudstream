@@ -9,8 +9,8 @@ version = 1
 cloudstream {
     // All of these properties are optional, you can safely remove any of them.
 
-    description = "Lorem ipsum"
-    authors = listOf("Cloudburst", "Luna712")
+    description = "MyCima Provider for Cloudstream"
+    authors = listOf("Custom")
 
     /**
     * Status int as one of the following:
@@ -21,10 +21,10 @@ cloudstream {
     **/
     status = 1 // Will be 3 if unspecified
 
-    tvTypes = listOf("Movie")
+    tvTypes = listOf("Movie", "TvSeries", "Anime", "AsianDrama")
 
-    requiresResources = true
-    language = "en"
+    requiresResources = false
+    language = "ar"
 
     // Random CC logo I found
     iconUrl = "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png"
