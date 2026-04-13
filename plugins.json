@@ -1,0 +1,25 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "fileHash": "sha256-46ddf26e47ed4be70a04c46ff9d32c35819e1863fe1a7876ee835276523c3123",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/wiriti001/MyCima-Cloudstream",
+        "fileSize": 38763,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Custom"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "MyCimaModule",
+        "description": "MyCima Provider for Cloudstream",
+        "url": "https://raw.githubusercontent.com/wiriti001/MyCima-Cloudstream/builds/MyCimaModule.cs3",
+        "name": "MyCimaModule"
+    }
+]
